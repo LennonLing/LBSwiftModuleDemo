@@ -8,8 +8,8 @@
 
 import UIKit
 
-class Tool: NSObject {
-    func log() {
+public class Tool: NSObject {
+    public class func log() {
         print("log")
     }
 }
