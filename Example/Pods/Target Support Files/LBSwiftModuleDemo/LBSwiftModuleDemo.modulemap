@@ -1,0 +1,6 @@
+framework module LBSwiftModuleDemo {
+  umbrella header "LBSwiftModuleDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
